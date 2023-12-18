@@ -1,1 +1,1 @@
-# Air-Quality-Index-Google-Earth-Engine-
+# Air Quality Index Google Earth Engine
