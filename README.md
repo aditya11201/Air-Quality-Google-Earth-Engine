@@ -12,7 +12,6 @@
       sea, and satellite instruments help monitor air quality, set standards,
       and report the AQI.
     </p>
-
     <p>
       The direction of development of this map leads to the final result in the
       form of an air quality index or AQI map with coverage not only in Bekasi
@@ -20,7 +19,6 @@
       used to create this map can be easily modified. To change the coverage of
       the map, it is enough to import the shp of Indonesian boundaries.
     </p>
-
     <p>
       I used imagery from the Sentinel 5P satellite as the basis for creating
       this map. This air quality map is planned to consist of several maps. The
