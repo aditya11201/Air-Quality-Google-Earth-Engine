@@ -92,7 +92,7 @@
       To run the code, simply press the <strong>"Run"</strong> button. The code
       will automatically process to completion. To activate the map layer, go to
       the <strong>"Layers"</strong> tab and select the map you want to create by
-      pressing the check button on the map tab.
+      pressing the check button on the map tab.  <br />
       <img src="./img/img1.png" alt="Button Run" />
     </p>
   </section>
