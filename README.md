@@ -12,7 +12,6 @@
       sea, and satellite instruments help monitor air quality, set standards,
       and report the AQI.
     </p>
-
     <p>
       The direction of this map development is to produce an
       <strong>Air Quality Index (AQI) map</strong> that covers all of Indonesia,
@@ -22,7 +21,6 @@
       Indonesia's boundaries and slightly change some of the directory code
       where you store the file.
     </p>
-
     <p>
       I used imagery from the Sentinel 5P satellite as the basis for creating
       this map. This air quality map is planned to consist of several maps. The
